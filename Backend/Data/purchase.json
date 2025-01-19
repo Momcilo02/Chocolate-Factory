@@ -1,0 +1,305 @@
+[
+  {
+    "chocolates": [
+      {
+        "name": "Milka",
+        "price": 300,
+        "type": "Bar",
+        "kind": "Dark",
+        "weight": 100,
+        "description": "sweet and bitter",
+        "image": "chocolate-default.jpg",
+        "status": "",
+        "quantity": 7,
+        "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+      }
+    ],
+    "factory": {
+      "name": "Stark",
+      "location": {
+        "street": "novosadskog sajma 22",
+        "city": "Novi Sad",
+        "state": "Serbia",
+        "longitude": 21,
+        "latitude": 122
+      },
+      "workHours": "12-14",
+      "logo": "",
+      "rating": "",
+      "chocolates": [
+        {
+          "name": "Milka",
+          "price": 300,
+          "type": "Bar",
+          "kind": "Dark",
+          "weight": 100,
+          "description": "sweet and bitter",
+          "image": "chocolate-default.jpg",
+          "status": "",
+          "quantity": 17,
+          "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+        }
+      ],
+      "manager": null,
+      "menager": {
+        "username": "m1",
+        "password": "m1",
+        "firstname": "Milan",
+        "lastname": "Milanovic",
+        "birthday": "2024-09-21",
+        "gender": "Male",
+        "role": "Menager",
+        "purchases": [],
+        "cart": [],
+        "factory": null,
+        "points": 0,
+        "customerType": null
+      },
+      "id": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+    },
+    "date": "2024-09-09",
+    "price": 2100,
+    "customer": {
+      "username": "kup1",
+      "password": "kup1",
+      "firstname": "Momcilo",
+      "lastname": "Djurdjevic",
+      "birthday": "2024-09-04",
+      "gender": "Male",
+      "role": "Customer",
+      "purchases": [],
+      "cart": {
+        "price": 2100,
+        "chocolates": [
+          {
+            "name": "Milka",
+            "price": 300,
+            "type": "Bar",
+            "kind": "Dark",
+            "weight": 100,
+            "description": "sweet and bitter",
+            "image": "chocolate-default.jpg",
+            "status": "",
+            "quantity": 7,
+            "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+          }
+        ]
+      },
+      "factory": null,
+      "points": 0,
+      "customerType": "Bronze"
+    },
+    "status": "Canceled",
+    "id": "f36f3f1e-e"
+  },
+  {
+    "chocolates": [
+      {
+        "name": "Milka",
+        "price": 300,
+        "type": "Bar",
+        "kind": "Dark",
+        "weight": 100,
+        "description": "sweet and bitter",
+        "image": "chocolate-default.jpg",
+        "status": "",
+        "quantity": 10,
+        "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+      }
+    ],
+    "factory": {
+      "name": "Stark",
+      "location": {
+        "street": "novosadskog sajma 22",
+        "city": "Novi Sad",
+        "state": "Serbia",
+        "longitude": 21,
+        "latitude": 122
+      },
+      "workHours": "12-14",
+      "logo": "",
+      "rating": "",
+      "chocolates": [
+        {
+          "name": "Milka",
+          "price": 300,
+          "type": "Bar",
+          "kind": "Dark",
+          "weight": 100,
+          "description": "sweet and bitter",
+          "image": "chocolate-default.jpg",
+          "status": "",
+          "quantity": 17,
+          "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+        },
+        {
+          "name": "Slatka",
+          "price": 200,
+          "type": "Hot",
+          "kind": "Milk",
+          "weight": 240,
+          "description": "so sweet",
+          "image": "",
+          "status": "",
+          "quantity": 0,
+          "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+        }
+      ],
+      "manager": null,
+      "menager": {
+        "username": "m1",
+        "password": "m1",
+        "firstname": "Milan",
+        "lastname": "Milanovic",
+        "birthday": "2024-09-21",
+        "gender": "Male",
+        "role": "Menager",
+        "purchases": [],
+        "cart": [],
+        "factory": null,
+        "points": 0,
+        "customerType": null
+      },
+      "id": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+    },
+    "date": "2024-09-09",
+    "price": 3000,
+    "customer": {
+      "username": "kup1",
+      "password": "kup1",
+      "firstname": "Momciloo",
+      "lastname": "Djurdjevic",
+      "birthday": "2024-09-04",
+      "gender": "Male",
+      "role": "Customer",
+      "purchases": [],
+      "cart": {
+        "price": 0,
+        "chocolates": [
+          {
+            "name": "Milka",
+            "price": 300,
+            "type": "Bar",
+            "kind": "Dark",
+            "weight": 100,
+            "description": "sweet and bitter",
+            "image": "chocolate-default.jpg",
+            "status": "",
+            "quantity": 10,
+            "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+          }
+        ]
+      },
+      "factory": null,
+      "points": 1883,
+      "customerType": "Bronze"
+    },
+    "status": "Approved",
+    "id": "cd8241aa-8"
+  },
+  {
+    "chocolates": [
+      {
+        "name": "Milka",
+        "price": 300,
+        "type": "Bar",
+        "kind": "Dark",
+        "weight": 100,
+        "description": "sweet and bitter",
+        "image": "chocolate-default.jpg",
+        "status": "",
+        "quantity": 2,
+        "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+      }
+    ],
+    "factory": {
+      "name": "Stark",
+      "location": {
+        "street": "novosadskog sajma 22",
+        "city": "Novi Sad",
+        "state": "Serbia",
+        "longitude": 21,
+        "latitude": 122
+      },
+      "workHours": "12-14",
+      "logo": "",
+      "rating": "",
+      "chocolates": [
+        {
+          "name": "Milka",
+          "price": 300,
+          "type": "Bar",
+          "kind": "Dark",
+          "weight": 100,
+          "description": "sweet and bitter",
+          "image": "chocolate-default.jpg",
+          "status": "",
+          "quantity": 7,
+          "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+        },
+        {
+          "name": "Slatka",
+          "price": 200,
+          "type": "Hot",
+          "kind": "Milk",
+          "weight": 240,
+          "description": "so sweet",
+          "image": "",
+          "status": "",
+          "quantity": 0,
+          "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+        }
+      ],
+      "manager": null,
+      "menager": {
+        "username": "m1",
+        "password": "m1",
+        "firstname": "Milan",
+        "lastname": "Milanovic",
+        "birthday": "2024-09-21",
+        "gender": "Male",
+        "role": "Menager",
+        "purchases": [],
+        "cart": [],
+        "factory": null,
+        "points": 0,
+        "customerType": null
+      },
+      "id": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+    },
+    "date": "2024-09-09",
+    "price": 576,
+    "customer": {
+      "username": "kup1",
+      "password": "kup1",
+      "firstname": "Momciloo",
+      "lastname": "Djurdjevic",
+      "birthday": "2024-09-04",
+      "gender": "Male",
+      "role": "Customer",
+      "purchases": [],
+      "cart": {
+        "price": 576,
+        "chocolates": [
+          {
+            "name": "Milka",
+            "price": 300,
+            "type": "Bar",
+            "kind": "Dark",
+            "weight": 100,
+            "description": "sweet and bitter",
+            "image": "chocolate-default.jpg",
+            "status": "",
+            "quantity": 2,
+            "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+          }
+        ]
+      },
+      "factory": null,
+      "points": 1883,
+      "customerType": "Silver"
+    },
+    "status": "Denied",
+    "id": "769e3d23-c"
+  }
+]

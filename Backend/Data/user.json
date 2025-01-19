@@ -1,0 +1,342 @@
+[
+  {
+    "username": "adm1",
+    "password": "adm1",
+    "firstname": "Mirko",
+    "lastname": "Mirkovic",
+    "gender": "Male",
+    "birthday": "1990-05-15",
+    "role": "Administrator",
+    "purchases": [],
+    "cart": null,
+    "factory": null,
+    "points": 400,
+    "customerType": null,
+    "blocked": false
+  },
+  {
+    "username": "m1",
+    "password": "m1",
+    "firstname": "Danilo",
+    "lastname": "Milanovic",
+    "birthday": "2024-09-21",
+    "gender": "Male",
+    "role": "Menager",
+    "blocked": false,
+    "purchases": [],
+    "cart": [],
+    "factory": {
+      "name": "Stark",
+      "location": {
+        "street": "novosadskog sajma 22",
+        "city": "Novi Sad",
+        "state": "Serbia",
+        "longitude": 21,
+        "latitude": 122
+      },
+      "workHours": "12-14",
+      "logo": "",
+      "rating": "",
+      "chocolates": [],
+      "manager": null,
+      "menager": {
+        "username": "m1",
+        "password": "m1",
+        "firstname": "Milan",
+        "lastname": "Milanovic",
+        "birthday": "2024-09-21",
+        "gender": "Male",
+        "role": "Menager",
+        "purchases": [],
+        "cart": [],
+        "factory": null,
+        "points": 0,
+        "customerType": null
+      }
+    },
+    "points": 0,
+    "customerType": null
+  },
+  {
+    "username": "m2",
+    "password": "m2",
+    "firstname": "Stefon",
+    "lastname": "stefonovski",
+    "birthday": "2024-09-10",
+    "gender": "Female",
+    "role": "Menager",
+    "purchases": [],
+    "blocked": false,
+    "cart": [],
+    "factory": {
+      "name": "Fabrika1",
+      "location": {
+        "street": "braz",
+        "city": "brazilija",
+        "state": "brazil",
+        "longitude": 31,
+        "latitude": 123
+      },
+      "workHours": "11-23",
+      "logo": "factory1.jpg",
+      "rating": "",
+      "chocolates": [],
+      "manager": null,
+      "status": "",
+      "menager": {
+        "username": "m2",
+        "password": "m2",
+        "firstname": "Stefon",
+        "lastname": "stefonovski",
+        "birthday": "2024-09-10",
+        "gender": "Female",
+        "role": "Menager",
+        "purchases": [],
+        "cart": [],
+        "factory": null,
+        "points": 0,
+        "customerType": null,
+        "blocked": false
+      }
+    },
+    "points": 0,
+    "customerType": null
+  },
+  {
+    "username": "rad1",
+    "password": "rad1",
+    "firstname": "Nikol",
+    "blocked": false,
+    "lastname": "nikolic",
+    "birthday": "2024-09-05",
+    "gender": "Other",
+    "role": "Worker",
+    "purchases": [],
+    "cart": [],
+    "factory": {
+      "name": "Stark",
+      "location": {
+        "street": "novosadskog sajma 22",
+        "city": "Novi Sad",
+        "state": "Serbia",
+        "longitude": 21,
+        "latitude": 122
+      },
+      "workHours": "12-14",
+      "logo": "",
+      "rating": "",
+      "chocolates": [],
+      "manager": null,
+      "menager": {
+        "username": "m1",
+        "password": "m1",
+        "firstname": "Milan",
+        "lastname": "Milanovic",
+        "birthday": "2024-09-21",
+        "gender": "Male",
+        "role": "Menager",
+        "purchases": [],
+        "cart": [],
+        "factory": null,
+        "points": 0,
+        "customerType": null
+      },
+      "id": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+    },
+    "points": 0,
+    "customerType": null
+  },
+  {
+    "username": "rad2",
+    "password": "rad2",
+    "firstname": "Nikola",
+    "lastname": "Nikolic",
+    "birthday": "2024-09-26",
+    "gender": "Male",
+    "role": "Worker",
+    "blocked": false,
+    "purchases": [],
+    "cart": [],
+    "factory": {
+      "name": "Stark",
+      "location": {
+        "street": "novosadskog sajma 22",
+        "city": "Novi Sad",
+        "state": "Serbia",
+        "longitude": 21,
+        "latitude": 122
+      },
+      "workHours": "12-14",
+      "logo": "",
+      "rating": "",
+      "chocolates": [],
+      "manager": null,
+      "menager": {
+        "username": "m1",
+        "password": "m1",
+        "firstname": "Milan",
+        "lastname": "Milanovic",
+        "birthday": "2024-09-21",
+        "gender": "Male",
+        "role": "Menager",
+        "purchases": [],
+        "cart": [],
+        "factory": null,
+        "points": 0,
+        "customerType": null
+      },
+      "id": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+    },
+    "points": 0,
+    "customerType": null
+  },
+  {
+    "username": "rad3",
+    "password": "rad3",
+    "firstname": "Marko",
+    "lastname": "Nikolic",
+    "blocked": true,
+    "birthday": "2024-09-27",
+    "gender": "Female",
+    "role": "Worker",
+    "purchases": [],
+    "cart": [],
+    "factory": {
+      "name": "Stark",
+      "location": {
+        "street": "novosadskog sajma 22",
+        "city": "Novi Sad",
+        "state": "Serbia",
+        "longitude": 21,
+        "latitude": 122
+      },
+      "workHours": "12-14",
+      "logo": "",
+      "rating": "",
+      "chocolates": [],
+      "manager": null,
+      "menager": {
+        "username": "m1",
+        "password": "m1",
+        "firstname": "Milan",
+        "lastname": "Milanovic",
+        "birthday": "2024-09-21",
+        "gender": "Male",
+        "role": "Menager",
+        "purchases": [],
+        "cart": [],
+        "factory": null,
+        "points": 0,
+        "customerType": null
+      },
+      "id": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+    },
+    "points": 0,
+    "customerType": null
+  },
+  {
+    "username": "kup1",
+    "password": "kup1",
+    "firstname": "Momciloo",
+    "lastname": "Djurdjevic",
+    "birthday": "2024-09-04",
+    "blocked": false,
+    "gender": "Male",
+    "role": "Customer",
+    "purchases": [],
+    "cart": {
+      "price": 0,
+      "chocolates": []
+    },
+    "factory": null,
+    "points": 1960,
+    "customerType": "Silver"
+  },
+  {
+    "username": "kup2",
+    "password": "kup2",
+    "firstname": "Miske",
+    "lastname": "Miskovic",
+    "birthday": "2024-09-06",
+    "gender": "Female",
+    "role": "Customer",
+    "purchases": [],
+    "cart": {
+      "chocolates": [],
+      "price": 0
+    },
+    "factory": null,
+    "points": 0,
+    "customerType": "Bronze",
+    "blocked": false
+  },
+  {
+    "username": "rad5",
+    "password": "rad5",
+    "firstname": "sirko",
+    "lastname": "sirkovic",
+    "birthday": "2024-09-04",
+    "gender": "Female",
+    "role": "Worker",
+    "purchases": [],
+    "cart": [],
+    "factory": {
+      "name": "Stark",
+      "location": {
+        "street": "novosadskog sajma 22",
+        "city": "Novi Sad",
+        "state": "Serbia",
+        "longitude": 21,
+        "latitude": 122
+      },
+      "workHours": "12-14",
+      "logo": "",
+      "rating": "",
+      "chocolates": [
+        {
+          "name": "Milka",
+          "price": 300,
+          "type": "Bar",
+          "kind": "Dark",
+          "weight": 100,
+          "description": "sweet and bitter",
+          "image": "chocolate-default.jpg",
+          "status": "",
+          "quantity": 9,
+          "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+        },
+        {
+          "name": "Slatka",
+          "price": 200,
+          "type": "Hot",
+          "kind": "Milk",
+          "weight": 240,
+          "description": "so sweet",
+          "image": "",
+          "status": "",
+          "quantity": 0,
+          "factoryId": "49b74052-3627-4de6-b206-dc54b52e7ed8"
+        }
+      ],
+      "menager": {
+        "username": "m1",
+        "password": "m1",
+        "firstname": "Milan",
+        "lastname": "Milanovic",
+        "birthday": "2024-09-21",
+        "gender": "Male",
+        "role": "Menager",
+        "purchases": [],
+        "cart": [],
+        "factory": null,
+        "points": 0,
+        "customerType": null
+      },
+      "id": "49b74052-3627-4de6-b206-dc54b52e7ed8",
+      "status": ""
+    },
+    "points": 0,
+    "customerType": null,
+    "blocked": false
+  }
+]
